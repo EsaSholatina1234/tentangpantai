@@ -1,0 +1,2 @@
+# tentangpantai
+blog pribadi
